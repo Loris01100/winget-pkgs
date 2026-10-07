@@ -5,6 +5,7 @@ PackageIdentifier: Loris01100.CmdBoard
 PackageVersion: 0.2.0
 PackageLocale: en-US
 Publisher: Loris01100
+Author: Loris01100
 PublisherUrl: https://github.com/Loris01100
 PublisherSupportUrl: https://github.com/Loris01100/CmdBoard/issues
 PackageName: CmdBoard
